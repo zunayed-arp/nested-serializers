@@ -5,3 +5,13 @@ https://medium.com/featurepreneur/setting-up-ssh-key-with-github-for-ubuntu-cd8f
 
 
 tuitorial-post-core- https://www.youtube.com/watch?v=c5_KeiijMn0
+
+complex quieries-event- https://www.youtube.com/watch?v=V2XH22xDanw&list=PLo7TNe_pEoMXcsc1dOaFyVGcZK8o-6CCW&index=24
+
+github repo:https://github.com/adefemi/django_tut
+
+
+
+create-update-nested serializer- https://www.youtube.com/watch?v=EyMFf9O6E60
+github link: https://github.com/aarav-tech/ems
+
