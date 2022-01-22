@@ -5,4 +5,6 @@ class AddressGlobalSerializer(serializers.ModelSerializer):
         model = AddressGlobal
         fields = '__all__'
         
-class CustomSerializer(serializers)
+class CustomSerializer(serializers.ModelSerializer):
+    
+    
