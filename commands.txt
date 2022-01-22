@@ -1,3 +1,7 @@
 eval "$(ssh-agent -s)"
 
 https://medium.com/featurepreneur/setting-up-ssh-key-with-github-for-ubuntu-cd8f2fabf25b
+
+
+
+tuitorial-post-core- https://www.youtube.com/watch?v=c5_KeiijMn0
