@@ -7,3 +7,7 @@ from core.models import Instructor,Course
 class InstructorListView(generics.ListCreateAPIView):
     serializer_class = InstructorSerializer
     queryset = Instructor.objects.all()
+    
+class CourseListView(generics.ListCreateAPIView):
+    serializer_class = CourseSerializer
+    queryset = Course.objects.all()
